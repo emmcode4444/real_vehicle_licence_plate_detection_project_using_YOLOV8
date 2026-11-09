@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+.venv310/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Large video files
+*.mp4
+
+# Git
+.git/
